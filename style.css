@@ -39,7 +39,6 @@ h2 {
 }
 
 .cards {
-    color: #E7E9EE;
     width: 85%;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%; 
@@ -51,6 +50,7 @@ h2 {
 }
 
 .card {
+    color: #949CB3;
     background-color: #fff;
     box-shadow: rgba(39, 39, 39, 0.1) 0 0 15px;
     border: .2px solid #f3f3f3;
