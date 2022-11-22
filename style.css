@@ -8,11 +8,16 @@ body {
 .header {
     width: 80%;
     margin: 0 auto;
+    background-color: #292929;
+    margin-top: 30px;
+    position: sticky;
+    top: 0;
 }
 
 h1 {
     margin: 15px 15px;
     text-align: center;
+    color: #F5F5F5;
 }
 
 .body {
@@ -41,6 +46,7 @@ h1 {
     background-color: #f3f3f3;
     box-shadow: rgb(0,0,0,0.1) 0 5px 10px;
     border: .5px solid #aaa;
+    padding: 15px 15px;
 }
 
 #c1 {
