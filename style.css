@@ -15,64 +15,71 @@ h1 {
     text-align: center;
 }
 
+.body {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+.nav {
+    width: 20%;
+    padding: 20px 20px;
+}
+
 .cards {
+    width: 80%;
     display: grid;
-    grid-template-columns: 15% 15% 15% 15% 15% 15%; 
+    grid-template-columns: 15% 15% 15% 15% 15%; 
     grid-template-rows: 100px 100px 100px 100px;
     grid-gap: 10px;
     padding: 20px 20px;
     justify-content: center;
 }
 
-#c1 #c2 #c3 #c4 #c5 #c6 #c7 #c8 {
+.card {
     background-color: #ccc;
     border-radius: 15px;
     box-shadow: rgb(0,0,0,0.1) 0 10px 10px;
     border: 1px solid #aaa;
 }
 
-#nav {
-    grid-column: 1;
-    grid-row: 1/4;
-}
-
 #c1 {
-    grid-column: 2;
+    grid-column: 1;
     grid-row: 1;
 }
 
 #c2 {
-    grid-column: 2;
+    grid-column: 1;
     grid-row: 2;
 }
 
 #c3 {
-    grid-column: 2;
+    grid-column: 1;
     grid-row: 3;
 }
 
 #c4 {
-    grid-column: 2;
+    grid-column: 1;
     grid-row: 4;
 }
 
 #c5 {
-    grid-column: 3/4;
+    grid-column: 2/3;
     grid-row: 1/2;
 }
 
 #c6 {
-    grid-column: 5/6;
+    grid-column: 2/3;
     grid-row: 1/2;
 }
 
 #c7 {
-    grid-column: 3/4;
+    grid-column: 4/5;
     grid-row: 3/4;
 }
 
 #c8 {
-    grid-column: 5/6;
+    grid-column: 4/5;
     grid-row: 3/4;
 }
 
