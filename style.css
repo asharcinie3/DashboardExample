@@ -26,18 +26,19 @@ h2 {
     margin: 0;
     width: 100%;
     margin-top: 75px;
+    position: fixed;
 }
 
 .nav {
     background-color: #fff;
-    height: 750px;
+    height: 700px;
     width: 15%;
     padding: 15px 15px;
     margin-left: 0px;
 }
 
 .cards {
-    width: 85%;
+    width: 80%;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%; 
     grid-template-rows: 150px 150px 150px 150px;
