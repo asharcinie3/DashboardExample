@@ -16,6 +16,10 @@ h1 {
     text-align: center;
 }
 
+.body {
+    display: inline-block;
+}
+
 /*.body {
     display: flex;
     flex-direction: row;
