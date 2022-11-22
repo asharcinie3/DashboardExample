@@ -27,7 +27,7 @@ h1 {
 }
 
 .cards {
-    width: 1000px;
+    width: 1300px;
     height: 1060px;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%; 
@@ -65,22 +65,22 @@ h1 {
 }
 
 #c5 {
-    grid-column: 2/3;
-    grid-row: 1/2;
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
 }
 
 #c6 {
-    grid-column: 4/5;
-    grid-row: 1/2;
+    grid-column: 4 / 5;
+    grid-row: 1 / 2;
 }
 
 #c7 {
-    grid-column: 2/3;
-    grid-row: 3/4;
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
 }
 
 #c8 {
-    grid-column: 4/5;
-    grid-row: 3/4;
+    grid-column: 4 / 5;
+    grid-row: 3 / 4;
 }
 
