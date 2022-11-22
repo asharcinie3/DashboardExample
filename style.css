@@ -39,6 +39,7 @@ h2 {
 }
 
 .cards {
+    color: #E7E9EE;
     width: 85%;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%; 
