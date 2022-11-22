@@ -88,25 +88,25 @@ h2 {
 
 #c6 {
     grid-row: 3 / span 2;
-    grid-column: 1;
+    grid-column: 1 / span 2;
 }
 
 #c7 {
     grid-row: 3 / span 2;
-    grid-column: 2 / span 2;
+    grid-column: 3;
 }
 
 #c8 {
     grid-row: 3 / span 2;
-    grid-column: 4 / span 3;
+    grid-column: 4 / span 2;
 }
 
 #c9 {
     grid-row: 5 / span 2;
-    grid-column: 1 / span 3;
+    grid-column: 1 / span 2;
 }
 
 #c10 {
     grid-row: 5 / span 2;
-    grid-column: 4 / span 2;
+    grid-column: 3 / span 3;
 }
