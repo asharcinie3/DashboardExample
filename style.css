@@ -39,7 +39,7 @@ h2 {
 }
 
 .cards {
-    width: 80%;
+    width: 78%;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%; 
     grid-template-rows: 150px 150px 150px 150px;
