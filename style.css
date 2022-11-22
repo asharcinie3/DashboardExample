@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+    margin: 15px;
     text-align: center;
 }
 
@@ -23,7 +24,7 @@ h1 {
 }
 
 #c1 #c2 #c3 #c4 #c5 #c6 #c7 #c8 {
-    background-color: #ccc;
+    background-color: rgb(110, 103, 103);
     border-radius: 15px;
     box-shadow: rgb(0,0,0,0.1) 0 10px 10px;
     border: 1px solid #aaa;
