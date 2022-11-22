@@ -34,7 +34,7 @@ h1 {
 }
 
 .cards {
-    width: 100%;
+    width: 1350px;
     height: 100%;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%; 
