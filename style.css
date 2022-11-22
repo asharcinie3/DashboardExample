@@ -5,8 +5,12 @@ body {
     padding: 20px;
 }
 .header {
-    text-align: center;
+    width: 80%;
     margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
 }
 
 .cards {
