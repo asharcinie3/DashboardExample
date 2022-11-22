@@ -32,14 +32,14 @@ h2 {
 .nav {
     background-color: #fff;
     height: 700px;
-    width: 15%;
+    width: 10%;
     padding: 15px 15px;
     margin-left: 0px;
     margin-right: 50px;
 }
 
 .cards {
-    width: 78%;
+    width: 85%;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%; 
     grid-template-rows: 150px 150px 150px 150px;
