@@ -88,7 +88,7 @@ h2 {
 }
 
 #c6 {
-    grid-row: 3;
+    grid-row: 3 / span 2;
     grid-column: 1 / span 2;
 }
 
@@ -103,11 +103,6 @@ h2 {
 }
 
 #c9 {
-    grid-row: 4;
-    grid-column: 1 / span 2;
-}
-
-#c10 {
     grid-row: 4;
     grid-column: 3 / span 3;
 }
